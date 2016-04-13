@@ -8,7 +8,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <version.wildfly.swarm>1.0.0.Beta6</version.wildfly.swarm>
+        <version.wildfly.swarm>1.0.0.Beta7</version.wildfly.swarm>
     </properties>
 
     <modules>
